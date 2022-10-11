@@ -1,44 +1,44 @@
 {
-  "name": "CYBER-X 1.5 BETA",
+  "name": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢",
   "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
-  "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
-  "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
+  "repository": "https://github.com/aftab2683/CYBER-X-BETA-1.5.1-RELEASE-",
+  "logo": "https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "923015326254"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
 			"required": true,
-			"value": "CYBER-X BETA 1.5"
+			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
 			},
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "923305344152"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
 			"required": true,
-			"value": "ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
+			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
 			},
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
 			},
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
@@ -48,32 +48,32 @@
 			"MENU_IMAGE": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg"
 			},
 			"WELCOME_IMAGE": {
 			"description": "Add Your Welcome Image",
 			"required": true,
-			"value": "https://telegra.ph/file/ec6ee52c715d16837c7ca.jpg"
+			"value": "https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg"
 			},
 			"GOODBYE_IMAGE": {
 			"description": "Add Your Goodbye Image",
 			"required": true,
-			"value": "https://telegra.ph/file/4a576ba9ee45994d62aaa.jpg"
+			"value": "https://telegra.ph/file/15e3e1f10faaacbb067a5.jpg"
 			},
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
+			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
 			"required": true,
-			"value": "https://github.com/darkalphaxteam"
+			"value": "https://youtube.com/channel/UCpNNpJH8Kt9sXu8C7tUHUOg"
 			},
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94711421243"
+			"value": "923015326254"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
@@ -88,17 +88,17 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
 			"required": true,
-			"value": "Sri Lanka, Kurunagala, Nikaweratiya"
+			"value": "khanewal, Pakistan "
 			},
 			"CALL_BLOCK": {
 			"description": "Call Block system",
 			"required": true,
-			"value": "false"
+			"value": "true"
 			},
 			"AUTO_BGM": {
 			"description": "Auto BGM Reply System",
@@ -113,7 +113,7 @@
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
 			"required": true,
-			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
+			"value": "➢⃟🦅🇦  ғͥᴛᴀᷧʙⷨ🍃🇰ʜᴀɴ🌷⃟➢ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
 			}
 			
           },
